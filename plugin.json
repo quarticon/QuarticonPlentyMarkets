@@ -1,0 +1,44 @@
+{
+  "version": "1.0.0",
+  "name": "QuarticonPlentyMarkets",
+  "marketplaceName": {
+    "de": "Quarticon Recomendation Engine",
+    "en": "Quarticon Recomendation Engine"
+  },
+  "license": "AGPL-3.0",
+  "isExternalTool": true,
+  "pluginIcon": "icon_plugin_xs.png",
+  "price": 0.00,
+  "description": "AI-based tool which makes your online shop display products tailored to each customer’s individual needs, expectations and interests.",
+  "shortDescription": {
+    "de": "KI-basiertes Tool, mit dem Ihr Online-Shop Produkte anzeigt, die auf die individuellen Bedürfnisse, Erwartungen und Interessen jedes Kunden zugeschnitten sind.",
+    "en": "AI-based tool which makes your online shop display products tailored to each customer’s individual needs, expectations and interests."
+  },
+  "categories": [
+    "3527",
+    "4090",
+    "4086"
+  ],
+  "author": "Quarticon S.A",
+  "authorIcon": "icon_author_xs.png",
+  "email": "adrian.bera@quarticon.com",
+  "phone": "+48 884 636 875",
+  "keywords": [
+    "quarticon",
+    "AI",
+    "recomendation engine",
+    "recomentadions",
+    "smart"
+  ],
+  "type": "tool",
+  "directDownloadLinks": {},
+  "forwardLink": "https://platforms.quarticon.com/plentymarkets",
+  "require": [],
+  "namespace": "QuarticonPlentyMarkets",
+  "serviceProvider": "",
+  "javaScriptFiles": [],
+  "containers": [],
+  "dataProviders": [],
+  "dependencies": [],
+  "runOnBuild": []
+}
